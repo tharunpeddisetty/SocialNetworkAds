@@ -1,6 +1,6 @@
 # SocialNetworkAds
 
-Implementing Support Vector Machine model 
+Implementing Logistic Regression Machine model 
 
 Involves
 1) Data pre-processing
